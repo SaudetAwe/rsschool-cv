@@ -27,3 +27,6 @@ Code Example
 </html>
 ```
 **** 
+## Courses
+*[rsschool](https://rs.school "rsschool")*
+**** 
